@@ -1,7 +1,7 @@
 # Microsoft AI Lab
 What is [AI Lab?](https://www.ailab.microsoft.com/experiments)
 
-AI Lab helps our large fast-growing community of developers get started on AI. You can experience, learn and code the latest and greatest innovations from Microsoft AI here. AI Lab currently houses eight projects that showcase the latest in custom vision, attnGAN, Visual Studio tools for AI, Cognitive Search, Machine Reading Comprehension and more. Each lab gives you access to the experimentation playground, source code on GitHub, a crisp developer-friendly video, and insights into the underlying developer/ organizational challenge and solution. 
+AI Lab helps our large fast-growing community of developers get started on AI. You can experience, learn and code the latest and greatest innovations from Microsoft AI here. AI Lab currently houses eight projects that showcase the latest in custom vision, [attnGAN](https://www.ailab.microsoft.com/experiments/1e9e1eef-2ab1-41f1-b341-0118f414bd78), [Visual Studio tools for AI](https://visualstudio.microsoft.com/downloads/ai-tools-vs/), [Cognitive Search](https://docs.microsoft.com/en-us/azure/search/cognitive-search-concept-intro), [Machine Reading Comprehension and more](https://www.microsoft.com/en-us/research/blog/transfer-learning-machine-reading-comprehension/). Each lab gives you access to the experimentation playground, source code on GitHub, a crisp developer-friendly video, and insights into the underlying developer/ organizational challenge and solution. 
 
 <p align="center">
   <img width="560" height="300" src="https://github.com/Microsoft/ailab/blob/master/images/AI Lab.png">
